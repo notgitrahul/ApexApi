@@ -1,3 +1,5 @@
-git clone https://github.com/ITZ-ZAID/Telethon-Music XYZ
-cd XYZ
-python3 -m Zaid
+git clone https://github.com/UsergeTeam/Loader.git
+cd Loader
+bash install_req
+cp config.env.sample config.env
+bash run
