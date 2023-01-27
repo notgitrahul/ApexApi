@@ -1,5 +1,5 @@
-git clone https://github.com/XTelegram/upsnack
-pip3 install -r requirements-cli.txt
-pip3 install -r requirements.txt
-python3 update.py && python3 -m bot
-
+git clone https://github.com/UsergeTeam/Loader.git
+cd Loader
+bash install_req
+cp config.env.sample config.env
+bash run
